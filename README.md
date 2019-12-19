@@ -130,5 +130,6 @@ Data API url	https://api.invacio.com/json.php?key=abcdefghijklmnopqrstuvwxyz
 Error	{"status":"error","message":"Invalid api key."}
 Invalid parameter TYPE:
 
-# Data API url	https://api.invacio.com/json.php?key=abcdefghijklmnopqrstuvwxyz&type=test
+# Data API url	
+https://api.invacio.com/json.php?key=abcdefghijklmnopqrstuvwxyz&type=test
 Error	{"status":"error","message":"Parameter TYPE is not matching with requirement."}
