@@ -54,7 +54,7 @@ Facial, Emotional and Gender Detection	£0.088
 
 Example: If you apply Facial Detection as well as Label Detection to the samemedia, each feature will be billed individually. You would be billed for 1 unit ofLabel Detection and 1 unit of Facial Detection, at the price dictated by yourmonthly unit volume.
 
-Limits: For more than 5 million units per month,we would ask that you contact us so that we can build custom solutions.Please visit Invacio AAP Holdings Ltd (Seychelles) Contact Page and get in touch.
+Limits: For more than 5 million units per month,we would ask that you contact us so that we can build custom solutions.Please visit  Contact Page and get in touch.
 
 ---------
 
